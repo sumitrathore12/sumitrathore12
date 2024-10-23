@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitrathore12
 - 👀 I’m interested in doing work in IT sector
-- 🌱 I’m currently learning python and artificial learning
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on best companies 
 - 📫 How to reach me gmail:- sumitsinghrathore188@gmail.com , contact :- 9354741046
 
